@@ -1,0 +1,3 @@
+----------In this project i made a music player-----------
+-> we can select any folder anytime for accesing music which will be shown in a list 
+->we can do pause play next prev to any song 
